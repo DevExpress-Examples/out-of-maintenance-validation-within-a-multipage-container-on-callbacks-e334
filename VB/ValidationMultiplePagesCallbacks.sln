@@ -1,0 +1,34 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "C:\...\ValidationMultiplePagesCallbacks\", "ValidationMultiplePagesCallbacks\", "{2E2D3773-D116-459C-A45E-3ED165A8E236}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/ValidationMultiplePagesCallbacks"
+		Debug.AspNetCompiler.PhysicalPath = "ValidationMultiplePagesCallbacks\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\ValidationMultiplePagesCallbacks\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/ValidationMultiplePagesCallbacks"
+		Release.AspNetCompiler.PhysicalPath = "ValidationMultiplePagesCallbacks\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\ValidationMultiplePagesCallbacks\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "51919"
+	TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E2D3773-D116-459C-A45E-3ED165A8E236}.Debug|.NET.ActiveCfg = Debug|.NET
+		{2E2D3773-D116-459C-A45E-3ED165A8E236}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
