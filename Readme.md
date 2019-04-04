@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [Default.aspx](./CS/ValidationMultiplePagesCallbacks/Default.aspx) (VB: [Default.aspx](./VB/ValidationMultiplePagesCallbacks/Default.aspx))
-* [Default.aspx.cs](./CS/ValidationMultiplePagesCallbacks/Default.aspx.cs) (VB: [Default.aspx](./VB/ValidationMultiplePagesCallbacks/Default.aspx))
+* [Default.aspx.cs](./CS/ValidationMultiplePagesCallbacks/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/ValidationMultiplePagesCallbacks/Default.aspx.vb))
 <!-- default file list end -->
 # Validation within a multipage container (on callbacks)
 
